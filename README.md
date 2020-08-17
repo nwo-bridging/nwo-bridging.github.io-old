@@ -1,4 +1,4 @@
-## The future is now: how language use bridges generations online (NWO Digital Society)
+## #BridginG (NWO Digital Society)
 
 Hello! This is the project page of our NWO Digital Society project _The future is now: how language use bridges generations online_ ([NWO announcement](https://www.nwo.nl/actueel/nieuws/2020/02/vijf-nieuwe-onderzoeken-naar-de-digitale-samenleving.html))
 
