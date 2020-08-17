@@ -12,12 +12,13 @@ that will help citizens, journalists and organizations bring generations togethe
 
 ### Who?
 
-* Dr. Dong Nguyen, Utrecht University (co-PI)
-* Dr. ir. Tijs van den Broek, VU Amsterdam (co-PI)
-* Dr. Ton Baetens, EMMA
-* Prof. dr. Bianca Beersma, VU Amsterdam
-* Dr. Hans Moors, EMMA
-* Prof. dr. Kees van Deemter, Utrecht University
+* Dong Nguyen, Utrecht University (co-PI)
+* Tijs van den Broek, VU Amsterdam (co-PI)
+* Ton Baetens, EMMA
+* Bianca Beersma, VU Amsterdam
+* Hans Moors, EMMA
+* Kees van Deemter, Utrecht University
+* Anna Wegmann, Utrecht University
 
 <a href="https://www.uu.nl/"><img src="img/UU_logo_EN_CMYK.png" width="250"></a>
 <a href="https://www.vu.nl/"><img src="img/VUlogo_NL_Blauw_HR_RGB_tcm289-201375.png" width="250"></a>
