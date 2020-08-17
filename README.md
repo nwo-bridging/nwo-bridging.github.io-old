@@ -1,6 +1,6 @@
 ## #BridginG (funded by the NWO Digital Society program)
 
-Hello! This is the project page of our NWO Digital Society project _The future is now: how language use bridges generations online_, 2020-2025. See also the [NWO announcement](https://www.nwo.nl/actueel/nieuws/2020/02/vijf-nieuwe-onderzoeken-naar-de-digitale-samenleving.html).
+Hello! This is the project page of our NWO Digital Society project **_The future is now: how language use bridges generations online_**, 2020-2025. See also the [NWO announcement](https://www.nwo.nl/actueel/nieuws/2020/02/vijf-nieuwe-onderzoeken-naar-de-digitale-samenleving.html).
 
 ### Description
 
