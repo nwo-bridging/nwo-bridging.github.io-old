@@ -19,8 +19,8 @@ EMMA logo
 
 * Dr. Dong Nguyen, Utrecht University (co-PI)
 * Dr. ir. Tijs van den Broek, VU Amsterdam (co-PI)
-* Dr. Ton Baetens
-* Prof. dr. Bianca Beersma
+* Dr. Ton Baetens, EMMA
+* Prof. dr. Bianca Beersma, VU Amsterdam
 * Dr. Hans Moors, EMMA
 * Prof. dr. Kees van Deemter, Utrecht University
 
