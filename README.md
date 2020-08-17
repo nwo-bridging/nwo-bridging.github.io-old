@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## The future is now: how language use bridges generations online (NWO Digital Society)
 
-You can use the [editor on GitHub](https://github.com/nwo-bridging/nwo-bridging.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! This is the project page of our NWO Digital Society project _The future is now: how language use bridges generations online_ ([NWO announcement](https://www.nwo.nl/actueel/nieuws/2020/02/vijf-nieuwe-onderzoeken-naar-de-digitale-samenleving.html))
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Description
 
-### Markdown
+Many urgent societal challenges, like climate change, require generations to align their interests, but
+online discussions sometimes escalate. We combine computational methods on large-scale observational
+online data with laboratory and field experiments—to develop both data- and theory-driven interventions
+that will help citizens, journalists and organizations bring generations together online.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Involved Organisations
 
-```markdown
-Syntax highlighted code block
+UU logo
+VU logo
+EMMA logo
 
-# Header 1
-## Header 2
-### Header 3
+### Who?
 
-- Bulleted
-- List
+* Dr. Dong Nguyen, Utrecht University (co-PI)
+* Dr. ir. Tijs van den Broek, VU Amsterdam (co-PI)
+* Dr. Ton Baetens
+* Prof. dr. Bianca Beersma
+* Dr. Hans Moors, EMMA
+* Prof. dr. Kees van Deemter, Utrecht University
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nwo-bridging/nwo-bridging.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
