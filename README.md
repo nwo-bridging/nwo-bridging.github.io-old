@@ -20,6 +20,8 @@ that will help citizens, journalists and organizations bring generations togethe
 * Kees van Deemter, Utrecht University
 * Anna Wegmann, Utrecht University
 
+For questions, please contact [Dong Nguyen](https://www.dongnguyen.nl/) and [Tijs van den Broek](https://research.vu.nl/en/persons/tijs-van-den-broek).
+
 <a href="https://www.uu.nl/"><img src="img/UU_logo_EN_CMYK.png" width="250"></a>
 <a href="https://www.vu.nl/"><img src="img/VUlogo_NL_Blauw_HR_RGB_tcm289-201375.png" width="250"></a>
 <a href="https://www.emma.nl/"><img src="img/emma-logo.svg" width="250"></a>
