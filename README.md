@@ -29,5 +29,4 @@ For questions, please contact [Dong Nguyen](https://www.dongnguyen.nl/) and [Tij
 ### Funded by
 
 <a href="https://www.nwo.nl"><img src="img/NWO-logo - witruimte.png" width="150"></a>
-
 <a href="https://www.emma.nl/"><img src="img/emma-logo.svg" width="250"></a>
