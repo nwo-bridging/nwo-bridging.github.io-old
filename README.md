@@ -12,12 +12,13 @@ that will help citizens, journalists and organizations bring generations togethe
 
 ### Who?
 
-* Dong Nguyen, Utrecht University (co-PI)
-* Tijs van den Broek, VU Amsterdam (co-PI)
 * Ton Baetens, EMMA
+* Tijs van den Broek, VU Amsterdam (co-PI)
 * Bianca Beersma, VU Amsterdam
-* Hans Moors, EMMA
 * Kees van Deemter, Utrecht University
+* Hans Moors, EMMA
+* Dong Nguyen, Utrecht University (co-PI)
+* Charlotte Vaaßen, VU Amsterdam
 * Anna Wegmann, Utrecht University
 
 For questions, please contact [Dong Nguyen](https://www.dongnguyen.nl/) and [Tijs van den Broek](https://research.vu.nl/en/persons/tijs-van-den-broek).
@@ -30,3 +31,19 @@ For questions, please contact [Dong Nguyen](https://www.dongnguyen.nl/) and [Tij
 
 <a href="https://www.nwo.nl"><img src="img/NWO-logo - witruimte.png" width="150"></a>
 <a href="https://www.emma.nl/"><img src="img/emma-logo.svg" width="250"></a>
+
+### Output
+
+* Can Communication Increase Empathy and Perspective-Taking in Online Discussions?, Charlotte Vaaßen, ECPR conference 2023
+* Same Author or Just Same Topic? Towards Content-Independent Style Representations, Anna Wegmann, Marijn Schraagen and Dong Nguyen, 7th Workshop on Representation Learning for NLP at ACL 2022 [paper](https://aclanthology.org/2022.repl4nlp-1.26/) [video](https://www.youtube.com/watch?v=QHW7pfwJ56E) [poster](https://annawegmann.github.io/pdf/Style-Embedding_Poster.pdf) [code](https://github.com/nlpsoc/Style-Embeddings). *Try out the model on [Hugging Face](https://huggingface.co/AnnaWegmann/Style-Embedding)!*
+* Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Framework, Anna Wegmann and Dong Nguyen, EMNLP 2021 [paper](https://aclanthology.org/2021.emnlp-main.569/) [video](https://www.youtube.com/watch?v=WPbxyOrDK6w) [poster](https://annawegmann.github.io/pdf/STEL-poster.pdf) [code](https://github.com/nlpsoc/stel)
+
+### Student theses
+
+We are also interested in advising student projects on topics related to the project. 
+
+* SAURON: Leveraging Semantically Similar Utterances to Enhance Writing Style Embedding Models, Tim Koornstra, Utrecht University (AI Msc), 2023 [link](https://studenttheses.uu.nl/handle/20.500.12932/44226)
+* Text-based empathy detection on social media, Nikos Bentis, Utrecht University (AI Msc), 2021 [link](https://studenttheses.uu.nl/handle/20.500.12932/41238)
+* Evaluating Perspective-Taking in Online Discussions with NLP, Evgeny Vasilets, UvA/VU Amsterdam, 2021 [link](https://scripties.uba.uva.nl/search?id=724167)
+* Classification of Conversations: Distinguishing between Opposing Climate Change Communities on Reddit, Chieling Yueh, Utrecht University (AI Bsc), 2021 [link](https://studenttheses.uu.nl/handle/20.500.12932/40698)
+* Predicting balanced participation in two-person online conversations, Nikki Moolhuijsen, Utrecht University (AI Bsc), 2021, [link](https://studenttheses.uu.nl/handle/20.500.12932/1220)
