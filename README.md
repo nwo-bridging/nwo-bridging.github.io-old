@@ -12,14 +12,15 @@ that will help citizens, journalists and organizations bring generations togethe
 
 ### Who?
 
-* Ton Baetens, EMMA
-* Tijs van den Broek, VU Amsterdam (co-PI)
-* Bianca Beersma, VU Amsterdam
-* Kees van Deemter, Utrecht University
-* Hans Moors, EMMA
-* Dong Nguyen, Utrecht University (co-PI)
-* Charlotte Vaaßen, VU Amsterdam
-* Anna Wegmann, Utrecht University
+* [Ton Baetens](https://www.emma.nl/team/ton-baetens), EMMA
+* [Tijs van den Broek](https://research.vu.nl/en/persons/tijs-van-den-broek), VU Amsterdam (co-PI)
+* [Bianca Beersma](https://research.vu.nl/en/persons/bianca-beersma), VU Amsterdam
+* [Kees van Deemter](https://www.uu.nl/medewerkers/CJvanDeemter), Utrecht University
+* [Hans Moors](https://www.emma.nl/team/hans-moors), EMMA
+* [Dong Nguyen](https://www.dongnguyen.nl), Utrecht University (co-PI)
+* [Charlotte Vaaßen](https://research.vu.nl/en/persons/charlotte-elisabeth-vaassen), VU Amsterdam
+* [Anna Wegmann](https://annawegmann.github.io/), Utrecht University
+* [Lidwien van de Wijngaert](https://www.emma.nl/team/lidwien-van-de-wijngaert), EMMA
 
 For questions, please contact [Dong Nguyen](https://www.dongnguyen.nl/) and [Tijs van den Broek](https://research.vu.nl/en/persons/tijs-van-den-broek).
 
@@ -34,7 +35,7 @@ For questions, please contact [Dong Nguyen](https://www.dongnguyen.nl/) and [Tij
 
 ### Output
 
-* Can Communication Increase Empathy and Perspective-Taking in Online Discussions?, Charlotte Vaaßen, ECPR conference 2023
+* Can Communication Increase Empathy and Perspective-Taking in Online Discussions?, Charlotte Vaaßen, ECPR conference 2023 & [IACM, Thessaloniki 2023](https://osf.io/7kanx)
 * Same Author or Just Same Topic? Towards Content-Independent Style Representations, Anna Wegmann, Marijn Schraagen and Dong Nguyen, 7th Workshop on Representation Learning for NLP at ACL 2022 [paper](https://aclanthology.org/2022.repl4nlp-1.26/) [video](https://www.youtube.com/watch?v=QHW7pfwJ56E) [poster](https://annawegmann.github.io/pdf/Style-Embedding_Poster.pdf) [code](https://github.com/nlpsoc/Style-Embeddings). *Try out the model on [Hugging Face](https://huggingface.co/AnnaWegmann/Style-Embedding)!*
 * Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Framework, Anna Wegmann and Dong Nguyen, EMNLP 2021 [paper](https://aclanthology.org/2021.emnlp-main.569/) [video](https://www.youtube.com/watch?v=WPbxyOrDK6w) [poster](https://annawegmann.github.io/pdf/STEL-poster.pdf) [code](https://github.com/nlpsoc/stel)
 
