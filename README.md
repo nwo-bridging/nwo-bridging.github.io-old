@@ -1,6 +1,6 @@
 ## #BridginG (funded by the NWO Digital Society program)
 
-Hello! This is the project page of our NWO Digital Society project **_The future is now: how language use bridges generations online_**, 2020-2025. See also the [NWO announcement](https://www.nwo.nl/actueel/nieuws/2020/02/vijf-nieuwe-onderzoeken-naar-de-digitale-samenleving.html).
+Hello! This is the project page of our NWO Digital Society project **_The future is now: how language use bridges generations online_**, 2020-2025. See also the [NWO project page](https://www.nwo.nl/projecten/41019007-0).
 
 ### Description
 
@@ -32,6 +32,8 @@ For questions, please contact [Dong Nguyen](https://www.dongnguyen.nl/) and [Tij
 
 <a href="https://www.nwo.nl"><img src="img/NWO-logo - witruimte.png" width="150"></a>
 <a href="https://www.emma.nl/"><img src="img/emma-logo.svg" width="250"></a>
+
+**[EMMA](https://www.emma.nl/)** aims to contribute to a sustainable and inclusive society where everyone has a voice. EMMA consultants work together with government and citizens on solutions to the social challenges of our time. They conduct (applied) scientific research, provide strategic advice, organise participatory and deliberative processes and create effective and inspiring content.
 
 ### Output
 
